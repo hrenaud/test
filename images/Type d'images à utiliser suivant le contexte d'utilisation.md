@@ -33,9 +33,10 @@ Le JPG, le PNG et le GIF, sont contrairement au SVG des formats BITMAP, donc des
 C'est pour ça que les graphiste fournissent plusieurs formats / tailles d'images et pas toutes dans tous dans tous les formats lors de leurs livraisons.
 
 ## Exemple
+<img src="./image1.png" alt="image 1"/>
 
-![image 1](image1.png)
-![image 2](image2.png)
+![image 1](./image1.png)
+![image 2](./image2.png)
 
 
 ## Sources
