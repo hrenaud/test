@@ -1,3 +1,4 @@
+---
 titre: Type d'images à utiliser suivant le contexte d'utilisation
 famille: 
 statut: DOING
