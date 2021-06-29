@@ -34,4 +34,11 @@ C'est pour ça que les graphiste fournissent plusieurs formats / tailles d'image
 
 ## Exemple
 
+![image 1](image1.png)
+![image 2](image2.png)
+
+
 ## Sources
+
+- https://uxdesign.cc/jpg-vs-png-vs-gif-vs-svg-aefeca89f61
+- https://www.kokmoka.com/formats-dimages-site-web/
