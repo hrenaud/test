@@ -1,5 +1,11 @@
 # test
 
+## informations et Warning
+
+- [Utilisation du language Markdown](https://www.markdownguide.org/basic-syntax)
+- [Exemple de fiche](modèle%20de%20fiche%20-%20famille/Nom%20de%20la%20fiche/index.md)
+- Quand vous uploadez des images, elles ne sont instantanément visible
+
 ## Fiches
 
 > Fiches groupées par famille.
